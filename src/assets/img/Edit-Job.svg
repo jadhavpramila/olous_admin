@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-Edit">
+      <rect width="34" height="34"/>
+    </clipPath>
+  </defs>
+  <g id="Edit" clip-path="url(#clip-Edit)">
+    <g id="Group_17504" data-name="Group 17504" transform="translate(-8227 4645)">
+      <path id="Path_12229" data-name="Path 12229" d="M15.5,0A15.5,15.5,0,1,1,0,15.5,15.5,15.5,0,0,1,15.5,0Z" transform="translate(8229 -4643)" fill="none" stroke="#2f85cf" stroke-width="1"/>
+      <g id="Group_9214" data-name="Group 9214" transform="translate(8238.028 -4634.05)">
+        <g id="Group_4947" data-name="Group 4947">
+          <path id="Path_2393" data-name="Path 2393" d="M165.818,43.723a.284.284,0,0,0-.4,0L158.735,50.4a.284.284,0,0,0-.08.161l-.355,2.485a.284.284,0,0,0,.316.322l2.526-.313a.284.284,0,0,0,.166-.081l6.681-6.681a.284.284,0,0,0,0-.4Zm-4.842,8.783-2.061.256.289-2.023,4.3-4.3,1.77,1.77Zm4.7-4.7-1.77-1.77,1.71-1.71,1.77,1.77Z" transform="translate(-154.981 -43.639)" fill="#333" stroke="#333" stroke-linecap="round" stroke-width="0.5"/>
+          <path id="Path_2394" data-name="Path 2394" d="M55.588,101.635a.414.414,0,0,1-.422.417H44.98a.417.417,0,0,1-.426-.417V91.979a.424.424,0,0,1,.426-.425h5.461V91H44.98a.979.979,0,0,0-.981.979v9.656a.972.972,0,0,0,.981.971H55.166a.969.969,0,0,0,.976-.971V95.8h-.555Z" transform="translate(-44 -89.506)" fill="#333" stroke="#333" stroke-linecap="round" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

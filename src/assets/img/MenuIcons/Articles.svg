@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Articles">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Articles" clip-path="url(#clip-Articles)">
+    <g id="Group_11359" data-name="Group 11359" transform="translate(-18552.5 -24129.367)">
+      <g id="Group_11348" data-name="Group 11348" transform="translate(18489.5 23735.113)">
+        <g id="Group_11336" data-name="Group 11336" transform="translate(65 396.254)">
+          <rect id="Rectangle_8508" data-name="Rectangle 8508" width="12.379" height="12.379" rx="2" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+        </g>
+        <line id="Line_9706" data-name="Line 9706" x2="5.979" transform="translate(67.99 405.006)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      </g>
+    </g>
+  </g>
+</svg>

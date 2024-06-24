@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Pricing">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Pricing" clip-path="url(#clip-Pricing)">
+    <g id="Group_19768" data-name="Group 19768" transform="translate(1 1)">
+      <g id="Group_11364" data-name="Group 11364">
+        <g id="Ellipse_863" data-name="Ellipse 863" transform="translate(0)" fill="none" stroke="#2f85cf" stroke-width="1">
+          <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+          <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+        </g>
+        <g id="Group_11363" data-name="Group 11363" transform="translate(5.607 3.251)">
+          <g id="Group_11362" data-name="Group 11362">
+            <path id="Path_11735" data-name="Path 11735" d="M263.831,122.521a1.8,1.8,0,1,1,1.8-1.8.31.31,0,1,1-.619,0,1.177,1.177,0,1,0-1.177,1.177.31.31,0,1,1,0,.619Z" transform="translate(-262.035 -117.781)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+            <path id="Path_11736" data-name="Path 11736" d="M263.831,268.147a1.8,1.8,0,0,1-1.8-1.8.31.31,0,1,1,.619,0,1.176,1.176,0,1,0,1.177-1.177.31.31,0,0,1,0-.619,1.8,1.8,0,1,1,0,3.591Z" transform="translate(-262.035 -260.434)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+            <path id="Path_11737" data-name="Path 11737" d="M335.142,64.415a.31.31,0,0,1-.31-.31V62.957a.31.31,0,0,1,.619,0v1.149a.31.31,0,0,1-.31.309Z" transform="translate(-333.346 -62.647)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+            <path id="Path_11738" data-name="Path 11738" d="M335.142,412.508a.31.31,0,0,1-.31-.31v-1.149a.31.31,0,1,1,.619,0V412.2A.31.31,0,0,1,335.142,412.508Z" transform="translate(-333.346 -403.633)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

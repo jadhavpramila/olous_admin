@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-Close_1">
+      <rect width="18" height="18"/>
+    </clipPath>
+  </defs>
+  <g id="Close_1" clip-path="url(#clip-Close_1)">
+    <g id="Group_17300" data-name="Group 17300" transform="translate(-10255 -13220)">
+      <g id="Group_17299" data-name="Group 17299">
+        <g id="Group_17297" data-name="Group 17297">
+          <circle id="Ellipse_1115" data-name="Ellipse 1115" cx="8" cy="8" r="8" transform="translate(10256 13221)" fill="#ef2f2f"/>
+          <g id="Group_17295" data-name="Group 17295" transform="translate(10261.281 13226.195)">
+            <line id="Line_9721" data-name="Line 9721" x1="5.61" y2="5.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+            <line id="Line_9722" data-name="Line 9722" x2="5.61" y2="5.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

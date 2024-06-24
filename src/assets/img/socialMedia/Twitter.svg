@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-Twitter">
+      <rect width="28" height="28"/>
+    </clipPath>
+  </defs>
+  <g id="Twitter" clip-path="url(#clip-Twitter)">
+    <circle id="Ellipse_1422" data-name="Ellipse 1422" cx="13.085" cy="13.085" r="13.085" transform="translate(0.915 0.915)" fill="#2f85cf"/>
+    <g id="layer1" transform="translate(-273.775 -159.183)">
+      <path id="path1009" d="M281.531,167.31l4.846,6.479-4.876,5.268h1.1l4.269-4.612,3.449,4.612h3.735l-5.118-6.844,4.539-4.9h-1.1l-3.932,4.248-3.177-4.248Zm1.614.808h1.716l7.576,10.13h-1.716Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

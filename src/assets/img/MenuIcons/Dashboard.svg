@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Dashboard">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Dashboard" clip-path="url(#clip-Dashboard)">
+    <g id="Group_11354" data-name="Group 11354" transform="translate(-18552 -23954)">
+      <g id="Group_11352" data-name="Group 11352">
+        <g id="Group_11345" data-name="Group 11345" transform="translate(18492.229 23735)">
+          <path id="Path_11716" data-name="Path 11716" d="M165.009,85.344H153.668a.348.348,0,0,0-.342.342V96.9a.348.348,0,0,0,.342.342h11.341a.348.348,0,0,0,.342-.342V85.686a.343.343,0,0,0-.685,0V96.9l.342-.342H153.668l.342.342V85.686l-.342.342h11.341a.343.343,0,0,0,0-.685Z" transform="translate(-91.055 136.303)"/>
+          <path id="Path_11717" data-name="Path 11717" d="M339.487,97.9V86.722a.343.343,0,0,0-.685,0V97.9a.343.343,0,0,0,.685,0Z" transform="translate(-270.859 135.289)"/>
+          <path id="Path_11718" data-name="Path 11718" d="M160.412,268.8H154.8a.343.343,0,0,0,0,.685h5.612A.343.343,0,0,0,160.412,268.8Z" transform="translate(-92.162 -41.543)"/>
+          <path id="Path_11719" data-name="Path 11719" d="M160.165,268.8h-5.38a.343.343,0,0,0,0,.685h5.38A.344.344,0,0,0,160.165,268.8Z" transform="translate(-86.184 -38.543)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

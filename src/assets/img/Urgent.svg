@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Urgent_2">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Urgent_2" data-name="Urgent – 2" clip-path="url(#clip-Urgent_2)">
+    <g id="Group_7108" data-name="Group 7108" transform="translate(-9664 8901)">
+      <g id="whistle" transform="translate(9665 -8899.999)">
+        <line id="Line_3899" data-name="Line 3899" y1="3" transform="translate(11.892 -0.001)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <line id="Line_3900" data-name="Line 3900" x1="1" y1="2" transform="translate(5.892 0.999)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <line id="Line_3901" data-name="Line 3901" y1="2" x2="1" transform="translate(15.892 0.999)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <path id="Path_7042" data-name="Path 7042" d="M361,441h12.272a5.727,5.727,0,1,1-5.727,5.727,5.665,5.665,0,0,1,.041-.659l-6.586-1.8Z" transform="translate(-361 -434.455)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <circle id="Ellipse_516" data-name="Ellipse 516" cx="1.5" cy="1.5" r="1.5" transform="translate(10.892 10.999)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

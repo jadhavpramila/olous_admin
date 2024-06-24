@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="55" viewBox="0 0 106 55">
+  <defs>
+    <clipPath id="clip-Meator">
+      <rect width="106" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Meator" clip-path="url(#clip-Meator)">
+    <g id="Group_19261" data-name="Group 19261" transform="translate(3591 14092.152)">
+      <path id="Path_21186" data-name="Path 21186" d="M35.287,44.514a18.75,18.75,0,0,1,5.247-12.67L16.988,8.3a51.944,51.944,0,0,0-15,36.215Z" transform="translate(-3591.988 -14082.927)" fill="#f9200e"/>
+      <path id="Path_21187" data-name="Path 21187" d="M33.831,38.546A18.736,18.736,0,0,1,46.5,33.3V0A51.931,51.931,0,0,0,10.286,15Z" transform="translate(-3584.764 -14090.152)" fill="#f2ce36"/>
+      <path id="Path_21188" data-name="Path 21188" d="M30.041,0V33.3a18.75,18.75,0,0,1,12.67,5.247L66.256,15A51.928,51.928,0,0,0,30.041,0" transform="translate(-3567.565 -14090.152)" fill="#43cd68"/>
+      <path id="Path_21189" data-name="Path 21189" d="M37.094,31.843a18.736,18.736,0,0,1,5.247,12.67h33.3a51.931,51.931,0,0,0-15-36.215Z" transform="translate(-3561.425 -14082.928)" fill="#43cd68"/>
+    </g>
+  </g>
+</svg>

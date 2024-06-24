@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="22" viewBox="0 0 21 22">
+  <defs>
+    <clipPath id="clip-CTC">
+      <rect width="21" height="22"/>
+    </clipPath>
+  </defs>
+  <g id="CTC" clip-path="url(#clip-CTC)">
+    <g id="money-home" transform="translate(-70.66 -358.142)" opacity="0.5">
+      <path id="Path_7294" data-name="Path 7294" d="M84.7,370H82.48A1.48,1.48,0,0,0,81,371.48h0a1.48,1.48,0,0,0,1.48,1.48h1.48a1.48,1.48,0,0,1,1.48,1.48h0a1.48,1.48,0,0,1-1.48,1.48H81.37" transform="translate(-2.06 -2.315)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_133" data-name="Line 133" y1="2" transform="translate(81.16 366.155)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_134" data-name="Line 134" y1="2" transform="translate(81.16 373.178)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_7295" data-name="Path 7295" d="M73,375.836v-8.16L81.16,361l8.16,6.676v8.16a1.483,1.483,0,0,1-1.484,1.484H74.484A1.483,1.483,0,0,1,73,375.836Z" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

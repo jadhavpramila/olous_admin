@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Analytics">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Analytics" clip-path="url(#clip-Analytics)">
+    <g id="Group_19760" data-name="Group 19760" transform="translate(1 1.485)">
+      <path id="Path_11712" data-name="Path 11712" d="M203.149,167.144h-2.212a.21.21,0,0,1-.2-.216V156.763a.211.211,0,0,1,.2-.216h2.212a.211.211,0,0,1,.2.216v10.165a.211.211,0,0,1-.2.216Zm-2.007-.432h1.8v-9.733h-1.8Z" transform="translate(-198.633 -154.887)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+      <path id="Path_11713" data-name="Path 11713" d="M306.106,249.725h-2.212a.2.2,0,0,1-.2-.2v-6.469a.2.2,0,0,1,.2-.2h2.212a.2.2,0,0,1,.2.2v6.469a.2.2,0,0,1-.2.2Zm-2.007-.409h1.8v-6.06h-1.8Z" transform="translate(-297.105 -237.469)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+      <path id="Path_11714" data-name="Path 11714" d="M409.066,310.993h-2.212a.2.2,0,0,1-.2-.2v-4.147a.2.2,0,0,1,.2-.2h2.212a.2.2,0,0,1,.2.2v4.147a.2.2,0,0,1-.2.2Zm-2.007-.409h1.8v-3.738h-1.8Z" transform="translate(-395.797 -298.739)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+      <path id="Path_11715" data-name="Path 11715" d="M172.413,115.962H157.3a.22.22,0,0,1-.227-.213V102.26a.228.228,0,0,1,.454,0v13.275h14.89a.214.214,0,1,1,0,.426Z" transform="translate(-157.068 -102.047)" fill="#2f85cf" stroke="#2f85cf" stroke-width="0.3"/>
+    </g>
+  </g>
+</svg>

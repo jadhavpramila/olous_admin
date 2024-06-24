@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="9" viewBox="0 0 12 9">
+  <defs>
+    <clipPath id="clip-tick">
+      <rect width="12" height="9"/>
+    </clipPath>
+  </defs>
+  <g id="tick" clip-path="url(#clip-tick)">
+    <g id="Group_8937" data-name="Group 8937" transform="translate(1 1)">
+      <path id="Path_7019" data-name="Path 7019" d="M318.667,228.684l3.513,2.342L328.034,224" transform="translate(-318.667 -224)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

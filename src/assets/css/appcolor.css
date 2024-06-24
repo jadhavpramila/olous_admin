@@ -1,0 +1,34 @@
+:root {
+  --app-secondary-color: #efeff5;
+  --app-primary-color: #2f85cf;
+  --app-lighter-primary: #2f85cf0d;
+  --app-primary-text-color: #000;
+  --lighter-secondary: 1.5;
+  --app-bg-top-gradient: linear-gradient(to bottom, #d9eeff, #fff);
+  --app-bg-bottom-gradient: linear-gradient(
+    to bottom,
+    #1987e5,
+    rgba(0, 0, 0, 0.96) 172%
+  );
+  --app-border-color-focus: #2f85cf;
+  --app-border-color: #000;
+}
+.app-primary-text-color {
+  color: var(--app-primary-text-color) !important;
+}
+
+.app-secondary-text-color {
+  color: var(--app-primary-color);
+}
+.app-bg-top-gradient {
+  background-image: var(--app-bg-top-gradient);
+}
+.app-bg-bottom-gradient {
+  background-image: var(--app-bg-bottom-gradient);
+}
+.app-bg-color-secondary {
+  background-color: var(--app-secondary-color) !important;
+}
+.app-bg-box-shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}

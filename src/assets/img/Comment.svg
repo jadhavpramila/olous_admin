@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Comment">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Comment" clip-path="url(#clip-Comment)">
+    <g id="chat-conversation-alt" transform="translate(-385.833 -217.833)">
+      <path id="Path_36" data-name="Path 36" d="M403.5,218.833h-15a1.667,1.667,0,0,0-1.667,1.667v10.833A1.667,1.667,0,0,0,388.5,233h4.167L396,237.167,399.333,233H403.5a1.667,1.667,0,0,0,1.667-1.667V220.5A1.667,1.667,0,0,0,403.5,218.833Z" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_7" data-name="Line 7" x2="8.333" transform="translate(391.833 223.834)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_8" data-name="Line 8" x2="5" transform="translate(391.833 228)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-Search">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="Search" clip-path="url(#clip-Search)">
+    <g id="Group_6" data-name="Group 6" transform="translate(1 1)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.734" cy="5.734" r="5.734" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+      <path id="Vector" d="M0,0H4.1" transform="translate(9.611 10.021) rotate(45)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

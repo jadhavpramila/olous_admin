@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Kebab">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Kebab" clip-path="url(#clip-Kebab)">
+    <g id="Group_11046" data-name="Group 11046">
+      <g id="Group_11041" data-name="Group 11041" transform="translate(-875 -352)">
+        <circle id="Ellipse_850" data-name="Ellipse 850" cx="20" cy="20" r="20" transform="translate(917 354) rotate(90)" fill="#f2f2f2"/>
+        <g id="Group_11017" data-name="Group 11017" transform="translate(191 -161)">
+          <circle id="Ellipse_844" data-name="Ellipse 844" cx="2" cy="2" r="2" transform="translate(696 533)"/>
+          <circle id="Ellipse_845" data-name="Ellipse 845" cx="2" cy="2" r="2" transform="translate(704 533)"/>
+          <circle id="Ellipse_846" data-name="Ellipse 846" cx="2" cy="2" r="2" transform="translate(712 533)"/>
+        </g>
+      </g>
+      <rect id="Rectangle_12661" data-name="Rectangle 12661" width="44" height="44" fill="none"/>
+    </g>
+  </g>
+</svg>

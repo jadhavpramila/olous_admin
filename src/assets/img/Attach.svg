@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="47" viewBox="0 0 48 47">
+  <defs>
+    <clipPath id="clip-Attach">
+      <rect width="48" height="47"/>
+    </clipPath>
+  </defs>
+  <g id="Attach" clip-path="url(#clip-Attach)">
+    <g id="Group_8896" data-name="Group 8896" transform="translate(519 -12888)">
+      <g id="Group_8895" data-name="Group 8895" transform="translate(-1635 12496)">
+        <g id="Group_8415" data-name="Group 8415" transform="translate(126 -283)">
+          <rect id="Rectangle_10595" data-name="Rectangle 10595" width="48" height="47" rx="5" transform="translate(990 675)" fill="#f6f6f6"/>
+          <text id="Attach-2" data-name="Attach" transform="translate(1002 716)" font-size="8" font-family="SFUIDisplay-Semibold, SF UI Display" font-weight="600"><tspan x="0" y="0">Attach</tspan></text>
+          <g id="Group_8413" data-name="Group 8413" transform="translate(16123.066 -1416.589)">
+            <g id="Group_8412" data-name="Group 8412" transform="translate(-15117.066 2100.182)">
+              <path id="Path_10889" data-name="Path 10889" d="M801.282-3417.131h-.01l-.025,0-.026,0-.025,0-.025,0-.024.007-.025.008-.024.009-.023.01-.023.011-.022.012-.022.014-.021.014-.02.016-.02.017-.018.018-.018.019-.016.019-.016.02-.015.022-.012.019,0,.007-1.164,2.017-1.165,2.017a.511.511,0,0,0,.187.7.511.511,0,0,0,.7-.187l1.165-2.017.211-.366v9.572a.511.511,0,0,0,.511.511.511.511,0,0,0,.511-.511v-9.572l.211.366,1.165,2.017a.511.511,0,0,0,.7.187.511.511,0,0,0,.187-.7l-1.165-2.017-1.165-2.017-.009-.013-.014-.021-.015-.021-.016-.02-.017-.019-.018-.018-.019-.017-.019-.016-.021-.015-.021-.014-.022-.013-.022-.012-.023-.01-.023-.01-.024-.008-.024-.008-.025-.006-.025-.005-.025,0-.025,0h-.041Zm-7.845,8.84a.511.511,0,0,0-.5.518v5.038a.511.511,0,0,0,.511.511h15.69a.511.511,0,0,0,.511-.511v-5.038a.511.511,0,0,0-.511-.511.511.511,0,0,0-.511.511v4.527H793.955v-4.527a.51.51,0,0,0-.15-.368A.511.511,0,0,0,793.436-3408.291Z" transform="translate(-792.933 3417.131)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

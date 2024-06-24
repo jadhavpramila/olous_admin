@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-Download">
+      <rect width="34" height="34"/>
+    </clipPath>
+  </defs>
+  <g id="Download" clip-path="url(#clip-Download)">
+    <g id="Group_17509" data-name="Group 17509" transform="translate(-1)">
+      <rect id="Rectangle_12764" data-name="Rectangle 12764" width="31" height="31" rx="15.5" transform="translate(3 1.5)" fill="none" stroke="#d96f20" stroke-width="1"/>
+      <g id="Group_17506" data-name="Group 17506" transform="translate(-8432.564 4464.609)">
+        <path id="Path_11710" data-name="Path 11710" d="M116.159,58.9l.011.009a.367.367,0,0,0,.046.038l.024.013a.416.416,0,0,0,.041.022l.03.009c.014,0,.027.01.041.013a.388.388,0,0,0,.075.008h.009A.376.376,0,0,0,116.5,59a.364.364,0,0,0,.056-.017l.015,0a.4.4,0,0,0,.061-.032l0,0a.388.388,0,0,0,.059-.049l3.556-3.556a.381.381,0,1,0-.538-.538l-2.907,2.907v-8.8a.381.381,0,1,0-.761,0v8.8L113.14,54.8a.381.381,0,0,0-.538.538Zm6.418-.751a.381.381,0,0,0-.381.381v.685a1.143,1.143,0,0,1-1.142,1.142H111.8a1.143,1.143,0,0,1-1.142-1.142v-.685a.381.381,0,1,0-.761,0v.685a1.906,1.906,0,0,0,1.9,1.9h9.251a1.906,1.906,0,0,0,1.9-1.9v-.685A.381.381,0,0,0,122.577,58.145Z" transform="translate(8334.635 -4502.135)" stroke="#000" stroke-width="0.2"/>
+      </g>
+    </g>
+  </g>
+</svg>

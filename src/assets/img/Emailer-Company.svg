@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <clipPath id="clip-Emailer">
+      <rect width="31" height="31"/>
+    </clipPath>
+  </defs>
+  <g id="Emailer" clip-path="url(#clip-Emailer)">
+    <g id="Group_17572" data-name="Group 17572" transform="translate(1 1.352)">
+      <circle id="Ellipse_1133" data-name="Ellipse 1133" cx="15" cy="15" r="15" transform="translate(0 -0.352)" fill="#fff"/>
+      <path id="Path_11613" data-name="Path 11613" d="M116.319,117.6a1.545,1.545,0,0,0-1.52,1.561v7.889a1.55,1.55,0,0,0,1.52,1.567h12.918a1.55,1.55,0,0,0,1.52-1.567v-7.889a1.545,1.545,0,0,0-1.52-1.561Zm0,.76h12.918a.753.753,0,0,1,.315.071l-6.281,5.812a.682.682,0,0,1-.968,0l-6.293-5.812a.751.751,0,0,1,.309-.071Zm-.748.7,4.458,4.12-4.375,4.257a.848.848,0,0,1-.1-.386v-7.889a.9.9,0,0,1,.012-.1Zm14.414.006a.856.856,0,0,1,.012.1v7.889a.853.853,0,0,1-.089.38l-4.363-4.257,4.44-4.108Zm-4.993,4.619,4.268,4.173H116.3l4.286-4.167,1.2,1.11a1.476,1.476,0,0,0,2,0Z" transform="translate(-107.299 -108.452)" stroke="#000" stroke-width="0.1"/>
+    </g>
+  </g>
+</svg>

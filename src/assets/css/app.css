@@ -1,0 +1,311 @@
+#readmore {
+  color: #007bff !important;
+}
+
+.bold-Font-Weight {
+  font-weight: bold;
+}
+
+.Post-view .carousel .carousel-inner,
+.Post-view .video_div video,
+.Post-view .single-img-div,
+.Post-view .pdf_view {
+  /* height: 350px !important; */
+  min-height: 0px !important;
+  max-height: 350px !important;
+  overflow: hidden !important;
+}
+
+.Post-view .carousel .carousel-inner .carousel-item,
+.Post-view .carousel .carousel-inner .carousel-item img {
+  width: 100%;
+  height: 100%;
+}
+
+.Post-view .carousel .carousel-inner .carousel-item img {
+  object-fit: cover;
+}
+
+.Post-view .carousel-indicators {
+  z-index: 8;
+}
+
+.Post-view .playIcon {
+  position: absolute;
+  top: 47%;
+  left: 45%;
+}
+
+.Post-view .post-subtitle div {
+  padding-bottom: 1px !important;
+}
+
+.leadDetails .vs--searchable .vs__dropdown-toggle {
+  border: none !important;
+}
+
+.leadDetails .allocate-search {
+  border-radius: 20px;
+}
+
+.leadDetails .allocated-comp {
+  display: flex;
+  border: solid 1px #c4c4c4 !important;
+  border-radius: 8px;
+}
+
+.news-list .single-img-div {
+  height: 215px;
+}
+
+.news-list .url-value {
+  color: #007bff;
+  text-transform: lowercase;
+}
+
+.news-list .url-value,
+.news-list .tags-value {
+  word-break: break-all;
+}
+.news-list .news-card {
+  position: relative;
+}
+.news-list .news_delete {
+  position: absolute;
+  top: -11px;
+  right: -5px;
+}
+
+.news-list .dot-red {
+  height: 12px;
+  width: 12px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  margin-bottom: -1px;
+}
+
+.news-list .dot-green {
+  height: 12px;
+  width: 12px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+  margin-bottom: -1px;
+}
+
+.newsDetails #datepicker-placeholder__value_,
+.newsDetails #timepicker-placeholder__value_ {
+  margin-top: 2px;
+}
+
+.newsDetails .Images_btn {
+  margin-top: 2px;
+  height: 40px;
+  width: 40px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-left: none;
+  background: transparent;
+  border-width: 0.5px;
+}
+
+.newsDetails .url-text {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.newsDetails .image-card {
+  border: #e0e0e0;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.newsDetails .urlImage {
+  height: 200px;
+}
+
+.cls-ProductView .product-card-footer-product-name {
+  white-space: nowrap;
+  /* overflow: hidden; */
+  text-overflow: ellipsis;
+}
+
+.cls-companypricing .subscription_modal .modal-footer,
+.cls-companypricing .finalprice_modal .modal-footer,
+.cls-companylist .markAsPaid-modal .modal-footer {
+  padding: 0px;
+  height: 0px;
+}
+
+.cls-companypricing .subscription_modal .modal-container.text-center,
+.cls-companypricing .finalprice_modal .modal-container.text-center,
+.cls-companylist .markAsPaid-modal .modal-container.text-center {
+  text-align: left !important;
+}
+
+.cls-companypricing .finalprice_modal .modal-container.text-center {
+  max-width: 500px;
+}
+
+.cls-companylist #datepicker-paidAt {
+  /* display: none !important; */
+  visibility: hidden;
+  width: 0px;
+  height: 0px;
+}
+
+.cls-companylist #datepicker-paidAt__value_ {
+  margin-left: -20px;
+}
+
+.cls-report #datepicker-From__value_,
+.cls-report #datepicker-to__value_,
+.cls-create-ad #from-datepicker__value_,
+.cls-create-ad #to-datepicker__value_ {
+  margin: auto !important;
+  padding: 8px !important;
+}
+
+.cls-FinancialInfo .to-text {
+  margin-top: auto;
+  margin-bottom: 25px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.cls-FinancialInfo .right-control-margin {
+  margin-right: 7px;
+}
+
+.cls-FinancialInfo .upload-attachment-for-years {
+  width: 70px;
+  margin-top: auto;
+  margin-bottom: 10px;
+  margin-right: 7px;
+}
+
+.attachment-uploaded {
+  /* width: 70px;*/
+  height: 40px;
+  margin-top: 3px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.cls-FinancialInfo .year-attachment-uploaded {
+  width: 48px;
+  height: 44px;
+  object-fit: cover;
+}
+
+.cls-FinancialInfo .chkEstbInlastOneYear {
+  transform: scale(2);
+  margin-left: 6px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cls-FinancialInfo .year_seperator_line {
+  display: none;
+}
+
+.cls-companyStructure .right-space {
+  padding-right: 0px;
+}
+
+.cls-resources .equ-left-margin {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.cls-resources .equipment_seperator_line {
+  display: none;
+}
+
+.cls-create-ad .call-to-action-panel {
+  border: 1px solid #c4c4c4;
+  padding: 15px;
+  border-radius: 4px;
+  margin-top: 30px;
+}
+
+/***************** web style*******************/
+@media only screen and (min-width: 992px) {
+  .news-list .colon {
+    float: right;
+  }
+
+  .cls-companypricing .subscription_modal .modal-container.text-center {
+    padding-left: 50px;
+  }
+
+  .cls-companyStructure .liability-currency {
+    width: 150px;
+  }
+
+  .cls-compliance .col-right-padding,
+  .cls-FinancialInfo .col-right-padding {
+    padding-right: 0px;
+  }
+
+  .cls-compliance .col-left-padding,
+  .cls-FinancialInfo .col-left-padding {
+    padding-left: 0px;
+  }
+}
+
+/***************** Mobile style*******************/
+@media only screen and (max-width: 992px) {
+  .Post-view .carousel .carousel-inner,
+  .Post-view .video_div video,
+  .Post-view .single-img-div,
+  .Post-view .pdf_view {
+    /* height: 250px !important; */
+    min-height: 0px !important;
+    max-height: 250px !important;
+    overflow: hidden !important;
+  }
+
+  .AssignTags .tag-div {
+    margin-left: 0px !important;
+  }
+
+  .leads-list .lead-card-row {
+    margin-bottom: 20px;
+  }
+
+  .news-list .colon {
+    display: none;
+  }
+
+  .news-list .assign_tag_news {
+    margin-bottom: 10px;
+  }
+
+  .cls-companyStructure .liability-currency {
+    width: 120px;
+  }
+  .cls-FinancialInfo .year_seperator_line {
+    display: block !important;
+  }
+
+  .cls-FinancialInfo .checkbox-align {
+    display: flex;
+  }
+
+  .cls-resources .equipment_seperator_line {
+    display: block !important;
+  }
+
+  .cls-experience .col-left-padding {
+    padding-left: 0px;
+  }
+
+  .cls-experience .col-right-padding {
+    padding-right: 0px;
+  }
+  .cls-compliance .top-margin-to-row {
+    margin-top: 10px;
+  }
+}

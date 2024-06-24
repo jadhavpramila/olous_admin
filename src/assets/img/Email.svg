@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Email">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Email" clip-path="url(#clip-Email)">
+    <g id="Group_11037" data-name="Group 11037" transform="translate(-7756 -14400)">
+      <g id="Group_11035" data-name="Group 11035">
+        <g id="Group_11019" data-name="Group 11019" transform="translate(7259 13982)">
+          <path id="Path_11613" data-name="Path 11613" d="M116.806,117.6a2.04,2.04,0,0,0-2.007,2.062v10.419a2.047,2.047,0,0,0,2.007,2.07h17.059a2.047,2.047,0,0,0,2.007-2.07V119.662a2.04,2.04,0,0,0-2.007-2.062Zm0,1h17.059a.994.994,0,0,1,.415.094l-8.295,7.675a.9.9,0,0,1-1.278,0L116.4,118.7a.992.992,0,0,1,.408-.094Zm-.988.925,5.888,5.441-5.778,5.621a1.12,1.12,0,0,1-.125-.51V119.662a1.186,1.186,0,0,1,.016-.133Zm19.035.008a1.124,1.124,0,0,1,.016.125v10.419a1.127,1.127,0,0,1-.118.5l-5.762-5.621,5.864-5.425Zm-6.593,6.1,5.637,5.511H116.782l5.66-5.5,1.584,1.466a1.949,1.949,0,0,0,2.642,0Z" transform="translate(384.201 315.4)" stroke="#000" stroke-width="0.2"/>
+          <rect id="Rectangle_12656" data-name="Rectangle 12656" width="40" height="40" transform="translate(499 420)" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

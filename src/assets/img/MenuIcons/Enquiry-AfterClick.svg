@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Enquiry">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Enquiry" clip-path="url(#clip-Enquiry)">
+    <g id="Group_19765" data-name="Group 19765" transform="translate(1 1)">
+      <g id="Ellipse_861" data-name="Ellipse 861" transform="translate(0 0)" fill="none" stroke="#2f85cf" stroke-width="1">
+        <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+        <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+      </g>
+      <text id="_" data-name="?" transform="translate(5 10.689)" fill="#2f85cf" font-size="10" font-family="SFUIDisplay-Regular, SF UI Display"><tspan x="0" y="0">?</tspan></text>
+    </g>
+  </g>
+</svg>

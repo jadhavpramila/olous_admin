@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Active_Incomplete">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Active_Incomplete" data-name="Active Incomplete" clip-path="url(#clip-Active_Incomplete)">
+    <g id="Group_9142" data-name="Group 9142" transform="translate(-121.5 -273.5)">
+      <circle id="Ellipse_836" data-name="Ellipse 836" cx="6.5" cy="6.5" r="6.5" transform="translate(123.5 275.5)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

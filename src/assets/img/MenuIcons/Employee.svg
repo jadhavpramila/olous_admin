@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Employee">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Employee" clip-path="url(#clip-Employee)">
+    <g id="Group_11356" data-name="Group 11356" transform="translate(-18551.5 -24266.719)">
+      <g id="Group_11351" data-name="Group 11351" transform="translate(18554.5 24267.719)">
+        <g id="Group_11341" data-name="Group 11341" transform="translate(0 0)">
+          <path id="Path_11730" data-name="Path 11730" d="M244.728,31.7a3.067,3.067,0,1,0-3.068-3.067A3.07,3.07,0,0,0,244.728,31.7Zm0-5.9a2.829,2.829,0,1,1-2.83,2.83A2.833,2.833,0,0,1,244.728,25.808Z" transform="translate(-238.83 -25.57)" stroke="#000" stroke-width="0.5"/>
+          <path id="Path_11732" data-name="Path 11732" d="M232.99,423.36h.238v3.126h-.238Z" transform="translate(-230.405 -412.099)" stroke="#000" stroke-width="0.5"/>
+          <path id="Path_11733" data-name="Path 11733" d="M150.659,268.175a13.741,13.741,0,0,0-6.144,0,3.362,3.362,0,0,0-2.821,3.7l.139,3.483.238-.01-.139-3.483a3.143,3.143,0,0,1,2.636-3.461l.166-.036,1.412,1.291.532-.8.364,1-.868,5.471.235.037.857-5.4h.641l.856,5.4.235-.037-.867-5.472.363-1,.533.8,1.412-1.292.166.036a3.143,3.143,0,0,1,2.636,3.461l-.139,3.483.238.01.139-3.483a3.361,3.361,0,0,0-2.82-3.7ZM146.1,269.3l-1.081-.988a13.528,13.528,0,0,1,1.895-.229Zm1.823.435h-.677l-.405-1.115.368-.551q.376-.01.751,0l.368.551Zm1.145-.435-.814-1.218a13.529,13.529,0,0,1,1.9.229Z" transform="translate(-141.69 -260.969)" stroke="#000" stroke-width="0.5"/>
+        </g>
+        <line id="Line_9707" data-name="Line 9707" x2="11.523" transform="translate(0.137 14.646)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
